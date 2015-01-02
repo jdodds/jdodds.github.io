@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://jdodds.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: exhortatory
+subtitle: 
+author: Jeremiah Dodds
 simple_search: https://www.google.com/search
-description:
+description: thoughts on software, life, and so on.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -91,7 +91,7 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
+disqus_short_name: exhortatory
 disqus_show_comment_count: false
 
 # Google Analytics

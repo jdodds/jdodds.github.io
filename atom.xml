@@ -1,16 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[exhortatory]]></title>
   <link href="http://jdodds.github.io/atom.xml" rel="self"/>
   <link href="http://jdodds.github.io/"/>
-  <updated>2015-01-01T20:30:03-05:00</updated>
+  <updated>2015-01-01T21:11:05-05:00</updated>
   <id>http://jdodds.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Jeremiah Dodds]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[What Makes a Codebase Good?]]></title>
+    <link href="http://jdodds.github.io/blog/2015/01/01/what-makes-a-codebase-good/"/>
+    <updated>2015-01-01T20:34:38-05:00</updated>
+    <id>http://jdodds.github.io/blog/2015/01/01/what-makes-a-codebase-good</id>
+    <content type="html"><![CDATA[<p>A <a href="https://news.ycombinator.com/item?id=8818159">recent discussion on hacker news</a> got me thinking about what makes a good codebase. After thinking about it for a while, I&rsquo;ve come up with the following rule of thumb:</p>
+
+<p>A good codebase is one that both <strong>does what it is expected to do</strong> and <strong>doesn&rsquo;t fill it&rsquo;s maintainers with negative emotions</strong>.</p>
+]]></content>
+  </entry>
   
 </feed>
